@@ -1,4 +1,4 @@
-Hi 👋 My name is Matthew Edelen
+Hi 👋
 ===============================
 
 Student Developer
