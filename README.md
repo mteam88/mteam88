@@ -6,7 +6,7 @@ Student Developer
 
 Love to learn. Excellent at Python, not excellent at rust. If you like Windows more than Linux, delete your computer. Now.
 
-* 🌍  I'm based in Maryland, USA
+* 🌍  I'm based in USA, EST
 * 🧠  I'm learning rust
 * 🤝  I'm open to collaborating on Anything
 * ⚡  "An open book is an open mind, but an open mind opens books."
