@@ -4,11 +4,12 @@ Hi 👋
 Student Developer
 -----------------
 
-Love to learn. Excellent at Python, not excellent at rust. If you like Windows more than Linux, delete your computer. Now.
+Love to learn. Please hire me as an intern at a blockchain company. I aslo do freelancing for MEV and blockchain.
 
 * 🌍  I'm based in USA, EST
-* 🧠  I'm learning rust
-* 🤝  I'm open to collaborating on Anything
+* 🧠  Rust
+* 🤝  I'm open to collaborating on **Anything**
+* ❗  Definitely going to start a company one day
 * ⚡  "An open book is an open mind, but an open mind opens books."
 
 ### Skills
