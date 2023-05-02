@@ -4,7 +4,7 @@ Hi 👋
 Student Developer
 -----------------
 
-Love to learn. Please hire me as an intern at a blockchain company. I aslo do freelancing for MEV and blockchain.
+Love to learn. I do freelancing for MEV and blockchain.
 
 * 🌍  I'm based in USA, EST
 * 🧠  Rust
