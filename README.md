@@ -4,19 +4,23 @@ Hi 👋
 Student Developer
 -----------------
 
-Love to learn. I do freelancing for MEV and blockchain.
+Love to learn. 
+I do freelancing for MEV and blockchain.
 
-* 🌍  I'm based in USA, EST
-* 🧠  Rust
-* 🤝  I'm open to collaborating on **Anything**
-* ❗  Definitely going to start a company one day
-* ⚡  "An open book is an open mind, but an open mind opens books."
+I am seeking an internship to get experience.
 
-### Socials
+### Skills
+- 🦀 Rust
+- 🐍 Python
+- 🔑 Blockchain Technology
+- 🗣️ Communication
+- 🧠 Learning
 
-<p align="left"> <a href="https://www.github.com/mteam88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/mteam88" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-### Badges
+### Interests
+- 🔑 Blockchain / Cryptocurrency
+- 🔒 Cryptography
+- 👨‍💻 Programming
+- 🧑‍🎨 Program Design
 
 <b>My GitHub Stats</b>
 
