@@ -11,6 +11,7 @@ I am seeking an internship to get experience.
 
 ### Skills
 - 🦀 Rust
+- 🏃‍♂️	Golang
 - 🐍 Python
 - 🔑 Blockchain Technology
 - 🗣️ Communication
