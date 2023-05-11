@@ -9,6 +9,9 @@ I do freelancing for MEV and blockchain.
 
 I am seeking an internship to get experience.
 
+Blog: mteam88.github.io
+
+
 ### Skills
 - 🦀 Rust
 - 🏃‍♂️	Golang
