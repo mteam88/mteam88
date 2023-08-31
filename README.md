@@ -1,22 +1,22 @@
 Hi 👋
 ===============================
 
-Student Developer
+Freelance Developer
 -----------------
 
 Love to learn. 
-I do freelancing for MEV and blockchain.
+I do freelancing for MEV and blockchain related projects.
 
 I am seeking an internship to get experience.
 
-Blog: mteam88.github.io
+Writings and thoughts: https://mteam88.github.io
 
 
 ### Skills
 - 🦀 Rust
-- 🏃‍♂️	Golang
 - 🐍 Python
 - 🔑 Blockchain Technology
+- 🥪 [MEV](https://mteam88.github.io/posts/im-new-to-mev/)
 - 🗣️ Communication
 - 🧠 Learning
 
