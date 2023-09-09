@@ -7,7 +7,7 @@ Freelance Developer
 Love to learn. 
 I do freelancing for MEV and blockchain related projects.
 
-I am seeking an internship to get experience.
+Recently I have been doing some Ethereum research.
 
 Writings and thoughts: https://mteam88.github.io
 
