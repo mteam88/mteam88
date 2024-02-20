@@ -1,16 +1,17 @@
 Hi 👋
 ===============================
 
-Freelance Developer
+Researcher - Developer
 -----------------
 
 Love to learn. 
-I do freelancing for MEV and blockchain related projects.
 
 Recently I have been doing some Ethereum research.
 
 Writings and thoughts: https://mteam.space
 
+### Contact
+See the links on [my website](https://mteam.space) footer for my up to date contact information. I prefer [telegram](https://t.me/mteam888) for direct communication.
 
 ### Skills
 - 🦀 Rust
@@ -25,3 +26,4 @@ Writings and thoughts: https://mteam.space
 - 🔒 Cryptography
 - 👨‍💻 Programming
 - 🧑‍🎨 Program Design
+- ✍️ Ethereum Research
