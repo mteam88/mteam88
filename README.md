@@ -9,6 +9,7 @@ Love to learn.
 Recently I have been doing some Ethereum research.
 
 Writings and thoughts: https://mteam.space
+Cofounder, Strategy at [Spire Labs](https://spire.dev/) hacking on Based Rollups and Preconfirmations. 
 
 ### Contact
 See the links on [my website](https://mteam.space) footer for my up to date contact information. I prefer [telegram](https://t.me/mteam888) for direct communication.
