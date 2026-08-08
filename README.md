@@ -2,7 +2,7 @@ Hi 👋
 ===============================
 
 Writings and thoughts: https://mteam.space  
-Cofounder, Strategy at [Spire Labs](https://spire.dev/) hacking on the best based appchains.
+Cofounder, Strategy at [Spire Labs](https://spire.dev/) building the future
 
 most of my up to date content on twitter: https://x.com/mteamisloading
 
