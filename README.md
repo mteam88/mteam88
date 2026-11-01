@@ -10,6 +10,7 @@ Cofounder and CPO at [Spire Labs](https://spire.dev), where I build market-makin
 
 **Projects**
 
+- [bopl-rl](https://github.com/mteam88/bopl-rl): self-play RL for the game Bopl Battle: a deterministic Rust reimplementation of its physics, recurrent PPO on a CUDA trainer, and an Elo/Nash league
 - [base-depth-analysis](https://github.com/mteam88/base-depth-analysis): executable depth curves for WETH/USDC across Base pools, a prop AMM and KyberSwap, in Rust
 - [clockwork](https://github.com/mteam88/clockwork): Alloy-based MEV bot in Rust
 - [airhop](https://github.com/mteam88/airhop): seamless AirPods handoff between a Mac and an unrooted Android phone
